@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Michroma&display=swap');
+
+body {
+    font-family: Michroma, serif;
+    background: url(https://images.wallpaperscraft.ru/image/single/miachik_smajlik_ulybka_123773_1600x900.jpg);
+}
+
+.text {
+    color: rgb(255, 255, 255);
+    width: 700px;
+}
+.fv-light {
+    color: rgb(241, 225, 10);
+}
